@@ -4,8 +4,8 @@
 const axios = require('axios').default;
 
 
-const url = "http://localhost/allo_resident/back-end/";
-const url2 = "http://localhost/allo_resident/back-end/api.php?action="
+const url = "API_URL";
+const url2 = "API_URL"
 
 class ApiService2 {
 
